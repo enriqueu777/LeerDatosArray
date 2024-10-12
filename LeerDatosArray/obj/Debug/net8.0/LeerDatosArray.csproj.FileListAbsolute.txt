@@ -1,0 +1,15 @@
+C:\Users\eutreror\source\repos\LeerDatosArray\LeerDatosArray\obj\Debug\net8.0\LeerDatosArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eutreror\source\repos\LeerDatosArray\LeerDatosArray\obj\Debug\net8.0\LeerDatosArray.AssemblyInfoInputs.cache
+C:\Users\eutreror\source\repos\LeerDatosArray\LeerDatosArray\obj\Debug\net8.0\LeerDatosArray.AssemblyInfo.cs
+C:\Users\eutreror\source\repos\LeerDatosArray\LeerDatosArray\obj\Debug\net8.0\LeerDatosArray.csproj.CoreCompileInputs.cache
+C:\Users\eutreror\source\repos\LeerDatosArray\LeerDatosArray\obj\Debug\net8.0\LeerDatosArray.sourcelink.json
+C:\Users\eutreror\source\repos\LeerDatosArray\LeerDatosArray\bin\Debug\net8.0\LeerDatosArray.exe
+C:\Users\eutreror\source\repos\LeerDatosArray\LeerDatosArray\bin\Debug\net8.0\LeerDatosArray.deps.json
+C:\Users\eutreror\source\repos\LeerDatosArray\LeerDatosArray\bin\Debug\net8.0\LeerDatosArray.runtimeconfig.json
+C:\Users\eutreror\source\repos\LeerDatosArray\LeerDatosArray\bin\Debug\net8.0\LeerDatosArray.dll
+C:\Users\eutreror\source\repos\LeerDatosArray\LeerDatosArray\bin\Debug\net8.0\LeerDatosArray.pdb
+C:\Users\eutreror\source\repos\LeerDatosArray\LeerDatosArray\obj\Debug\net8.0\LeerDatosArray.dll
+C:\Users\eutreror\source\repos\LeerDatosArray\LeerDatosArray\obj\Debug\net8.0\refint\LeerDatosArray.dll
+C:\Users\eutreror\source\repos\LeerDatosArray\LeerDatosArray\obj\Debug\net8.0\LeerDatosArray.pdb
+C:\Users\eutreror\source\repos\LeerDatosArray\LeerDatosArray\obj\Debug\net8.0\LeerDatosArray.genruntimeconfig.cache
+C:\Users\eutreror\source\repos\LeerDatosArray\LeerDatosArray\obj\Debug\net8.0\ref\LeerDatosArray.dll
